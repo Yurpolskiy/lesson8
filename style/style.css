@@ -139,7 +139,6 @@ button{
     font-weight: 600;
     font-size: 22px;
     line-height: 27px;
-    margin: 0px;
 }
 .card p{
     margin-top: 16px;
@@ -207,7 +206,6 @@ button{
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
-    margin-top: 0px;
 }
 .benefits p{
     width: 525px;
@@ -245,7 +243,6 @@ button{
     line-height: 26px;
 }
 .product-managers_description h2{
-    margin-top: 0px;
     color:#2F281E;
     font-weight: 700;
     font-size: 36px;
@@ -289,7 +286,6 @@ button{
     line-height: 26px;
 }
 .marketers_description h2{
-    margin-top: 0px;
     color:#2F281E;
     font-weight: 700;
     font-size: 36px;
