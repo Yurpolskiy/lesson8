@@ -115,7 +115,7 @@ button{
 }
 .features{
     text-align: center;
-    padding-bottom: 178px;
+    padding-bottom: 177px;
 }
 .features h2{
     color:#2F281E;
@@ -151,28 +151,23 @@ button{
     text-align: left;
     display: inline-block;
     width: 270px;
-    height: 175px;
     margin-right: 40px;
 }
 .second_card{
     text-align: left;
     display: inline-block;
     width: 270px;
-    height: 175px;
     margin-right: 40px;
 }
 .third_card{
     text-align: left;
     display: inline-block;
     width: 270px;
-    height: 175px;
     margin-right: 40px;
 }
 .fourth_card{
     text-align: left;
     display: inline-block;
-    width: 270px;
-    height: 175px;
     margin-right: 40px;
 }
 .fourth_card p{
@@ -309,12 +304,15 @@ button{
     margin-bottom: 30px;
 }
 footer{
+    align-items: flex-start;
+    justify-content: space-between;
     position: relative;
     padding-bottom: 100px;
     margin-top: 70px;
     display: flex;
 }
 .footer_logo{
+    margin-top: 8px;
     display: flex;
     align-items: center;
     height: 50px;
@@ -326,4 +324,94 @@ footer{
     font-weight: 700;
     font-size: 25px;
     margin-left: 12px;
+}
+footer h2{
+    margin-bottom: 30px;
+}
+footer li{
+    margin-bottom: 15px;
+    text-decoration: none;
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+    color: #544837;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.phone_number_enter h2{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    width: 280px;
+}
+.phone_number_enter input{
+    width: 340px;
+    height: 50px;
+    padding: 0px 10px;
+    border: 1px solid #BCD0E5;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+.phone_number_enter input::-webkit-input-placeholder {
+    color: #BCD0E5;
+}
+.phone_number_enter button{
+    width: 180px;
+    height: 50px;
+    background-color: orange;
+    display: block;
+    margin-top: 25px;
+    border: 1px solid orange;
+    cursor: pointer;
+}
+.phone_number_enter button:hover{
+    transition: color 0.5s, transform 0.2s;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+    -4px -4px 6px 0 rgba(116, 125, 136, .5),
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+}
+.phone_number_enter button a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+}
+
+footer a:hover{
+    text-shadow: -2px -2px 8px rgba(106, 150, 150, 0.77);
+    font-weight: 600;
+}
+.signup_button:hover{
+    transition: .4s;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+    -4px -4px 6px 0 rgba(116, 125, 136, .5),
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+}
+.signin_button:hover{
+    transition: .4s;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+    -4px -4px 6px 0 rgba(116, 125, 136, .5),
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(255, 255, 255, .4);
+    border: 3px solid #BCD0E5;
+}
+.advertising button:hover {
+    transition: .4s;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+    -4px -4px 6px 0 rgba(116, 125, 136, .5),
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+}
+.features button:hover{
+    transition: .4s;
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+    -4px -4px 6px 0 rgba(116, 125, 136, .5),
+    inset -4px -4px 6px 0 rgba(255,255,255,.2),
+    inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
 }
