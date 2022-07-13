@@ -19,7 +19,7 @@ header {
 
     width: 180px;
 }
-.logo .header_logo__description{
+.logo .header_logo__description {
     display: inline-block;
     color: #173A56;
     font-weight: 700;
@@ -34,10 +34,10 @@ header li {
     justify-self: center;
     padding-right: 20px;
 }
-ul:last-of-type{
+ul:last-of-type {
     margin-right: 50px;
 }
-.nav-bar{
+.nav-bar {
     font-size: 16px;
     text-decoration: none;
     color: #2F281E;
@@ -53,7 +53,7 @@ header button {
 button{
     border-radius: 5px;
 }
-.signin_button{
+.signin_button {
     cursor: pointer;
     border: 1px solid #BCD0E5;
     background-color: white;
@@ -65,7 +65,7 @@ button{
     color: #2F281E;
     font-size: 16px;
 }
-.signup_button{
+.signup_button {
     cursor: pointer;
     border: 1px solid orange;
     background: orange;
@@ -99,7 +99,7 @@ button{
     font-size: 18px;
     line-height: 28px;
 }
-.advertising button{
+.advertising button {
     cursor: pointer;
     border: 1px solid orange;
     background: orange;
@@ -107,17 +107,17 @@ button{
     height: 50px;
     margin-top: 20px;
 }
-.advertising button a{
+.advertising button a {
     font-size: 16px;
     color: white;
     font-weight: 600;
     text-decoration: none;
 }
-.features{
+.features {
     text-align: center;
     padding-bottom: 177px;
 }
-.features h2{
+.features h2 {
     color:#2F281E;
     width: 539px;
     height: 88px;
@@ -126,54 +126,54 @@ button{
     line-height: 44px;
     margin: 0 auto;
 }
-.card{
+.card {
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
 }
-.card img{
+.card img {
     margin-bottom: 30px;
 }
-.card h3{
+.card h3 {
     justify-self: flex-start;
     font-weight: 600;
     font-size: 22px;
     line-height: 27px;
 }
-.card p{
+.card p {
     margin-top: 16px;
     justify-self: flex-start;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.first_card{
+.first_card {
     text-align: left;
     display: inline-block;
     width: 270px;
     margin-right: 40px;
 }
-.second_card{
+.second_card {
     text-align: left;
     display: inline-block;
     width: 270px;
     margin-right: 40px;
 }
-.third_card{
+.third_card {
     text-align: left;
     display: inline-block;
     width: 270px;
     margin-right: 40px;
 }
-.fourth_card{
+.fourth_card {
     text-align: left;
     display: inline-block;
     margin-right: 40px;
 }
-.fourth_card p{
+.fourth_card p {
     width: 270px;
 }
-.features button{
+.features button {
     margin-top: 70px;
     width: 180px;
     height:50px;
@@ -182,43 +182,43 @@ button{
     background: orange;
     border-radius: 5px;
 }
-.features button a{
+.features button a {
     font-size: 16px;
     color: white;
     font-weight: 600;
     text-decoration: none;
 }
-.benefits{
+.benefits {
     display: flex;
     justify-content: space-between;
 }
-.benefits span{
+.benefits span {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.benefits h2{
+.benefits h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
 }
-.benefits p{
+.benefits p {
     width: 525px;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 40px;
 }
-.benefits h4{
+.benefits h4 {
     font-weight: 700;
     font-size: 16px;
     line-height: 26px;
     margin-bottom: 10px;
 }
-.benefits p:last-child{
+.benefits p:last-child {
     margin-bottom: 120px;
 }
-.product-managers{
+.product-managers {
     width: 100%;
     display: flex;
     align-items: flex-start;
@@ -226,31 +226,31 @@ button{
     margin-bottom: 100px;
 }
 
-.product-managers_description{
+.product-managers_description {
 
     margin-top: 45px;
     margin-left: 120px;
 }
-.product-managers_description span{
+.product-managers_description span {
     color: #544837;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.product-managers_description h2{
+.product-managers_description h2 {
     color:#2F281E;
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
     margin-bottom: 20px;
 }
-.product-managers_description p{
+.product-managers_description p {
     width: 440px;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.self_pros{
+.self_pros {
     margin-bottom: 40px;
 }
 .task_icon {
@@ -259,35 +259,35 @@ button{
 .first_task {
     display: flex;
 }
-.second_task{
+.second_task {
     display: flex;
 }
 .third_task {
     display: flex;
 }
-.marketers{
+.marketers {
     display: flex;
     justify-content: space-between;
     padding-bottom: 100px;
     border-bottom: 1px solid rgba(188, 208, 229, 0.5);
 }
-.marketers_description{
+.marketers_description {
     margin-top: 40px;
 }
-.marketers_description span{
+.marketers_description span {
     color: #544837;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.marketers_description h2{
+.marketers_description h2 {
     color:#2F281E;
     font-weight: 700;
     font-size: 36px;
     line-height: 44px;
     margin-bottom: 20px;
 }
-.marketers_description p{
+.marketers_description p {
     width: 486px;
     font-weight: 500;
     font-size: 16px;
@@ -297,13 +297,13 @@ button{
 .feminitsts_things {
     margin-bottom: 40px;
 }
-.marketers_description h4{
+.marketers_description h4 {
     margin-bottom: 12px;
 }
 .marketers_description p {
     margin-bottom: 30px;
 }
-footer{
+footer {
     align-items: flex-start;
     justify-content: space-between;
     position: relative;
@@ -318,35 +318,35 @@ footer{
     height: 50px;
 }
 
-.footer_logo__description{
+.footer_logo__description {
     display: inline-block;
     color: #173A56;
     font-weight: 700;
     font-size: 25px;
     margin-left: 12px;
 }
-footer h2{
+footer h2 {
     margin-bottom: 30px;
 }
-footer li{
+footer li {
     margin-bottom: 15px;
     text-decoration: none;
     list-style: none;
 }
-footer a{
+footer a {
     text-decoration: none;
     color: #544837;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
 }
-.phone_number_enter h2{
+.phone_number_enter h2 {
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     width: 280px;
 }
-.phone_number_enter input{
+.phone_number_enter input {
     width: 340px;
     height: 50px;
     padding: 0px 10px;
@@ -358,7 +358,7 @@ footer a{
 .phone_number_enter input::-webkit-input-placeholder {
     color: #BCD0E5;
 }
-.phone_number_enter button{
+.phone_number_enter button {
     width: 180px;
     height: 50px;
     background-color: orange;
@@ -367,33 +367,32 @@ footer a{
     border: 1px solid orange;
     cursor: pointer;
 }
-.phone_number_enter button:hover{
+.phone_number_enter button:hover {
     transition: color 0.5s, transform 0.2s;
     box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
     -4px -4px 6px 0 rgba(116, 125, 136, .5),
     inset -4px -4px 6px 0 rgba(255,255,255,.2),
     inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
 }
-.phone_number_enter button a{
+.phone_number_enter button a {
     text-decoration: none;
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
     color: white;
 }
-
-footer a:hover{
+footer a:hover {
     text-shadow: -2px -2px 8px rgba(106, 150, 150, 0.77);
     font-weight: 600;
 }
-.signup_button:hover{
+.signup_button:hover {
     transition: .4s;
     box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
     -4px -4px 6px 0 rgba(116, 125, 136, .5),
     inset -4px -4px 6px 0 rgba(255,255,255,.2),
     inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
 }
-.signin_button:hover{
+.signin_button:hover {
     transition: .4s;
     box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
     -4px -4px 6px 0 rgba(116, 125, 136, .5),
@@ -408,7 +407,7 @@ footer a:hover{
     inset -4px -4px 6px 0 rgba(255,255,255,.2),
     inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
 }
-.features button:hover{
+.features button:hover {
     transition: .4s;
     box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
     -4px -4px 6px 0 rgba(116, 125, 136, .5),
